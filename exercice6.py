@@ -30,4 +30,4 @@ for tirage in tableau_jeu:
   print (tirage,end=',')
 
 
-print("salut)
+print("salut")
